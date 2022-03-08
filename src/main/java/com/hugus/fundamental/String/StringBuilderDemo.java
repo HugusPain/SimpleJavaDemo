@@ -1,4 +1,4 @@
-package com.hugus.fundamental;
+package com.hugus.fundamental.String;
 
 /**
  * Copyright (C), 2021-2022, www.hugusPain.com
